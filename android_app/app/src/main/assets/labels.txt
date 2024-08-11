@@ -1,0 +1,5 @@
+deletar
+mover
+parar
+redimensionar
+rotacionar
